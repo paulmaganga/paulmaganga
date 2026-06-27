@@ -7,8 +7,8 @@
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Configuring On-premises Active Directory within VirtualBox VMs]
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols]
 
 Active Directory Domain Services
 * Focus: Identity management, Organizational Unit (OU) design, and GPO security.
