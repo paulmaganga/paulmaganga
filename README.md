@@ -4,7 +4,7 @@
 
 - <b>(Active Directory I Ticketing System)</b>
   - [Help Desk Ticketing System](https://github.com/paulmaganga/osTicketing-System/blob/main/README.md)
-  - [Archtectural & Setup Phase](https://github.com/paulmagangacc/post-install-config)
+  - [Archtectural & Setup Phase](https://github.com/paulmaganga/Architectural-Setup-Phase)
   - [Identity & Access Management](https://github.com/joshmadakorcc/ticket-lifecycle)
   - [Server Roles & Infrastructure](https://github.com/joshmadakorcc/osticket-prereqs)
   - [Group Policy & Security](https://github.com/joshmadakorcc/osticket-prereqs)
