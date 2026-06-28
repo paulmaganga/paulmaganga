@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>(Active Directory I Ticketing System)</b>
-  - [Help Desk Ticketing System](https://github.com/paulmagangacc/osticket-prereqs)
+  - [Help Desk Ticketing System](https://github.com/paulmaganga/osTicketing-System/blob/main/README.md)
   - [Archtectural & Setup Phase](https://github.com/paulmagangacc/post-install-config)
   - [Identity & Access Management](https://github.com/joshmadakorcc/ticket-lifecycle)
   - [Server Roles & Infrastructure](https://github.com/joshmadakorcc/osticket-prereqs)
