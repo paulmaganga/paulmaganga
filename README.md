@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>(Active Directory I Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
   - [Archtectural & Setup Phase](https://github.com/joshmadakorcc/post-install-config)
   - [Identity & Access Management](https://github.com/joshmadakorcc/ticket-lifecycle)
