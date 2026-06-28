@@ -6,7 +6,7 @@
   - [Help Desk Ticketing System](https://github.com/paulmaganga/osTicketing-System/blob/main/README.md)
   - [Archtectural & Setup Phase](https://github.com/paulmaganga/Architectural-Setup-Phase)
   - [Identity & Access Management](https://github.com/paulmaganga/Identity-Access-Management)
-  - [Server Roles & Infrastructure](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [Server Roles & Infrastructure](https://github.com/paulmaganga/Server-Roles-Infrastructure)
   - [Group Policy & Security](https://github.com/paulmaganga/Group-Policy-Security)
 - <b>VirtualBox</b>
   - [Configuring On-premises Active Directory VirtualBox VMs](https://github.com/paulmagangacc/configure-ad)
