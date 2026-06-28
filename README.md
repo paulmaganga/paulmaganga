@@ -7,7 +7,7 @@
   - [Archtectural & Setup Phase](https://github.com/paulmaganga/Architectural-Setup-Phase)
   - [Identity & Access Management](https://github.com/paulmaganga/Identity-Access-Management)
   - [Server Roles & Infrastructure](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [Group Policy & Security](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [Group Policy & Security](https://github.com/paulmaganga/Group-Policy-Security)
 - <b>VirtualBox</b>
   - [Configuring On-premises Active Directory VirtualBox VMs](https://github.com/paulmagangacc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
