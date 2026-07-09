@@ -4,6 +4,7 @@
 
 - <b>(Ticketing System  I Active Directory I Group Policy Management)</b>
   - [Help Desk Ticketing System](https://github.com/paulmaganga/osTicketing-System/blob/main/README.md)
+  - [Servicenow IT Service Management(ITSM)](https://github.com/paulmaganga/Architectural-Setup-Phase)
   - [Archtectural & Setup Phase](https://github.com/paulmaganga/Architectural-Setup-Phase)
   - [Identity & Access Management](https://github.com/paulmaganga/Identity-Access-Management)
   - [Server Roles & Infrastructure](https://github.com/paulmaganga/Server-Roles-Infrastructure)
